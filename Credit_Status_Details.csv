@@ -1,0 +1,15 @@
+Credit_Status_ID,Credit_Status
+1,Fully Disbursed
+2,Repaid
+3,Repaying
+4,Disbursing&Repaying
+5,Fully Repaid
+6,Signed
+7,Cancelled
+8,Disbursing
+9,Effective
+10,Approved
+11,Terminated
+12,Negotiated
+13,Disbursed
+14,Fully Cancelled

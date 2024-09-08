@@ -1,0 +1,276 @@
+Country_ID,Region,Country_Code,Country
+1,AFRICA,KE,Kenya
+2,EUROPE AND CENTRAL ASIA,AZ,Azerbaijan
+3,AFRICA,UG,Uganda
+4,AFRICA,SL,Sierra Leone
+5,EASTERN AND SOUTHERN AFRICA,RW,Rwanda
+6,SOUTH ASIA,PK,Pakistan
+7,AFRICA,MR,Mauritania
+8,LATIN AMERICA AND CARIBBEAN,NI,Nicaragua
+9,EAST ASIA AND PACIFIC,LA,Lao People's Democratic Republic
+10,EAST ASIA AND PACIFIC,ID,Indonesia
+11,SOUTH ASIA,IN,India
+12,AFRICA,TZ,Tanzania
+13,EAST ASIA AND PACIFIC,CN,China
+14,LATIN AMERICA AND CARIBBEAN,BO,Bolivia
+15,EAST ASIA AND PACIFIC,KH,Cambodia
+16,MIDDLE EAST AND NORTH AFRICA,DJ,Djibouti
+17,AFRICA,ET,Ethiopia
+18,EAST ASIA AND PACIFIC,VN,Viet Nam
+19,SOUTH ASIA,AF,Afghanistan
+20,MIDDLE EAST AND NORTH AFRICA,RY,"Yemen, Republic of"
+21,AFRICA,SN,Senegal
+22,Western and Central Africa,BF,Burkina Faso
+23,EUROPE AND CENTRAL ASIA,KG,Kyrgyz Republic
+24,AFRICA,CM,Cameroon
+25,EAST ASIA AND PACIFIC,VN,Vietnam
+26,AFRICA WEST,GN,Guinea
+27,Eastern and Southern Africa,ET,Ethiopia
+28,EAST ASIA AND PACIFIC,VU,Vanuatu
+29,SOUTH ASIA,BD,Bangladesh
+30,AFRICA,BF,Burkina Faso
+31,AFRICA,RW,Rwanda
+32,EAST ASIA AND PACIFIC,MM,Myanmar
+33,AFRICA,LR,Liberia
+34,AFRICA,GW,Guinea-Bissau
+35,WESTERN AND CENTRAL AFRICA,NE,Niger
+36,AFRICA,ZM,Zambia
+37,AFRICA,NG,Nigeria
+38,Eastern and Southern Africa,RW,Rwanda
+39,LATIN AMERICA AND CARIBBEAN,LC,St. Lucia
+40,AFRICA,GH,Ghana
+41,EUROPE AND CENTRAL ASIA,AL,Albania
+42,AFRICA,CV,Cabo Verde
+43,SOUTH ASIA,NP,Nepal
+44,AFRICA,MZ,Mozambique
+45,LATIN AMERICA AND CARIBBEAN,HN,Honduras
+46,AFRICA,ZR,"Congo, Democratic Republic of"
+47,WESTERN AND CENTRAL AFRICA,CI,Cote d'Ivoire
+48,WESTERN AND CENTRAL AFRICA,SN,Senegal
+49,AFRICA,MG,Madagascar
+50,SOUTH ASIA,LK,Sri Lanka
+51,AFRICA EAST,MW,Malawi
+52,EAST ASIA AND PACIFIC,MN,Mongolia
+53,EASTERN AND SOUTHERN AFRICA,LS,Lesotho
+54,AFRICA,NE,Niger
+55,LATIN AMERICA AND CARIBBEAN,GY,Guyana
+56,LATIN AMERICA AND CARIBBEAN,HT,Haiti
+57,EAST ASIA AND PACIFIC,WS,Samoa
+58,AFRICA,BI,Burundi
+59,EUROPE AND CENTRAL ASIA,GE,Georgia
+60,EAST ASIA AND PACIFIC,TV,Tuvalu
+61,AFRICA WEST,BF,Burkina Faso
+62,AFRICA,SD,Sudan
+63,EUROPE AND CENTRAL ASIA,MD,Moldova
+64,EASTERN AND SOUTHERN AFRICA,ZR,"Congo, Democratic Republic of"
+65,WESTERN AND CENTRAL AFRICA,3W,Western and Central Africa
+66,EUROPE AND CENTRAL ASIA,BA,Bosnia and Herzegovina
+67,EASTERN AND SOUTHERN AFRICA,UG,Uganda
+68,AFRICA,ST,Sao Tome and Principe
+69,AFRICA WEST,CI,Cote d'Ivoire
+70,LATIN AMERICA AND CARIBBEAN,KN,St. Kitts and Nevis
+71,AFRICA WEST,SN,Senegal
+72,AFRICA,ML,Mali
+73,EAST ASIA AND PACIFIC,SB,Solomon Islands
+74,AFRICA,LS,Lesotho
+75,AFRICA,GN,Guinea
+76,WESTERN AND CENTRAL AFRICA,ML,Mali
+77,AFRICA WEST,GQ,Equatorial Guinea
+78,AFRICA,MW,Malawi
+79,EUROPE AND CENTRAL ASIA,TJ,Tajikistan
+80,EAST ASIA AND PACIFIC,PH,Philippines
+81,EASTERN AND SOUTHERN AFRICA,ET,Ethiopia
+82,LATIN AMERICA AND CARIBBEAN,6R,Caribbean
+83,EASTERN AND SOUTHERN AFRICA,MW,Malawi
+84,LATIN AMERICA AND CARIBBEAN,VC,St. Vincent and the Grenadines
+85,AFRICA,CG,"Congo, Republic of"
+86,SOUTH ASIA,MV,Maldives
+87,AFRICA EAST,KM,Comoros
+88,AFRICA EAST,BI,Burundi
+89,AFRICA EAST,ET,Ethiopia
+90,EASTERN AND SOUTHERN AFRICA,KE,Kenya
+91,EASTERN AND SOUTHERN AFRICA,ZW,Zimbabwe
+92,WESTERN AND CENTRAL AFRICA,GH,Ghana
+93,AFRICA,CF,Central African Republic
+94,AFRICA WEST,NE,Niger
+95,EUROPE AND CENTRAL ASIA,AM,Armenia
+96,EUROPE AND CENTRAL ASIA,XK,Kosovo
+97,AFRICA,ZW,Zimbabwe
+98,WESTERN AND CENTRAL AFRICA,MR,Mauritania
+99,WESTERN AND CENTRAL AFRICA,LR,Liberia
+100,EAST ASIA AND PACIFIC,4P,Pacific Islands
+101,AFRICA,CI,Cote d'Ivoire
+102,WESTERN AND CENTRAL AFRICA,GN,Guinea
+103,AFRICA,BJ,Benin
+104,AFRICA,AO,Angola
+105,LATIN AMERICA AND CARIBBEAN,GD,Grenada
+106,AFRICA WEST,GH,Ghana
+107,AFRICA WEST,MR,Mauritania
+108,AFRICA WEST,NG,Nigeria
+109,MIDDLE EAST AND NORTH AFRICA,IQ,Iraq
+110,AFRICA WEST,TG,Togo
+111,MIDDLE EAST AND NORTH AFRICA,EG,"Egypt, Arab Republic of"
+112,EAST ASIA AND PACIFIC,PG,Papua New Guinea
+113,WESTERN AND CENTRAL AFRICA,CG,"Congo, Republic of"
+114,AFRICA EAST,MZ,Mozambique
+115,AFRICA EAST,LS,Lesotho
+116,AFRICA EAST,KE,Kenya
+117,WESTERN AND CENTRAL AFRICA,NG,Nigeria
+118,AFRICA WEST,BJ,Benin
+119,AFRICA EAST,ZM,Zambia
+120,AFRICA EAST,TZ,Tanzania
+121,MIDDLE EAST AND NORTH AFRICA,JO,Jordan
+122,WESTERN AND CENTRAL AFRICA,BJ,Benin
+123,EUROPE AND CENTRAL ASIA,YF,Serbia
+124,WESTERN AND CENTRAL AFRICA,TG,Togo
+125,AFRICA EAST,ZR,"Congo, Democratic Republic of"
+126,AFRICA,TD,Chad
+127,AFRICA,3W,Western Africa
+128,AFRICA,GQ,Equatorial Guinea
+129,EASTERN AND SOUTHERN AFRICA,BI,Burundi
+130,AFRICA WEST,GW,Guinea-Bissau
+131,AFRICA EAST,MG,Madagascar
+132,EASTERN AND SOUTHERN AFRICA,SO,Somalia
+133,EAST ASIA AND PACIFIC,TO,Tonga
+134,WESTERN AND CENTRAL AFRICA,GM,"Gambia, The"
+135,Western and Central Africa,BJ,Benin
+136,AFRICA WEST,LR,Liberia
+137,AFRICA WEST,ML,Mali
+138,AFRICA EAST,SO,Somalia
+139,EASTERN AND SOUTHERN AFRICA,TZ,Tanzania
+140,EUROPE AND CENTRAL ASIA,TR,Turkey
+141,AFRICA WEST,SL,Sierra Leone
+142,SOUTH ASIA,BT,Bhutan
+143,AFRICA EAST,ST,Sao Tome and Principe
+144,Eastern and Southern Africa,TZ,Tanzania
+145,AFRICA,KM,Comoros
+146,AFRICA,TG,Togo
+147,AFRICA EAST,ZW,Zimbabwe
+148,AFRICA EAST,UG,Uganda
+149,MIDDLE EAST AND NORTH AFRICA,TN,Tunisia
+150,Western and Central Africa,GH,Ghana
+151,EUROPE AND CENTRAL ASIA,UZ,Uzbekistan
+152,EASTERN AND SOUTHERN AFRICA,MG,Madagascar
+153,AFRICA WEST,3W,Western Africa
+154,WESTERN AND CENTRAL AFRICA,CM,Cameroon
+155,EASTERN AND SOUTHERN AFRICA,BW,Botswana
+156,WESTERN AND CENTRAL AFRICA,TD,Chad
+157,AFRICA,GM,"Gambia, The"
+158,AFRICA,3A,Africa
+159,WESTERN AND CENTRAL AFRICA,BF,Burkina Faso
+160,EASTERN AND SOUTHERN AFRICA,ST,Sao Tome and Principe
+161,Eastern and Southern Africa,ZM,Zambia
+162,Western and Central Africa,GM,"Gambia, The"
+163,Western and Central Africa,SN,Senegal
+164,AFRICA EAST,RW,Rwanda
+165,EUROPE AND CENTRAL ASIA,ME,Montenegro
+166,AFRICA,SO,Somalia
+167,AFRICA WEST,CV,Cabo Verde
+168,EASTERN AND SOUTHERN AFRICA,AO,Angola
+169,EUROPE AND CENTRAL ASIA,7C,Central Asia
+170,EASTERN AND SOUTHERN AFRICA,ZM,Zambia
+171,AFRICA EAST,MU,Mauritius
+172,MIDDLE EAST AND NORTH AFRICA,LB,Lebanon
+173,WESTERN AND CENTRAL AFRICA,CF,Central African Republic
+174,LATIN AMERICA AND CARIBBEAN,EC,Ecuador
+175,EASTERN AND SOUTHERN AFRICA,SD,Sudan
+176,AFRICA,MU,Mauritius
+177,EUROPE AND CENTRAL ASIA,MK,"Macedonia, former Yugoslav Republic"
+178,WESTERN AND CENTRAL AFRICA,SL,Sierra Leone
+179,AFRICA WEST,CM,Cameroon
+180,LATIN AMERICA AND CARIBBEAN,PY,Paraguay
+181,AFRICA WEST,CG,"Congo, Republic of"
+182,EASTERN AND SOUTHERN AFRICA,ER,Eritrea
+183,AFRICA,ER,Eritrea
+184,Western and Central Africa,NE,Niger
+185,EASTERN AND SOUTHERN AFRICA,3E,Eastern and Southern Africa
+186,EAST ASIA AND PACIFIC,FJ,Fiji
+187,AFRICA EAST,SD,Sudan
+188,AFRICA WEST,TD,Chad
+189,WESTERN AND CENTRAL AFRICA,GW,Guinea-Bissau
+190,EASTERN AND SOUTHERN AFRICA,MZ,Mozambique
+191,EAST ASIA AND PACIFIC,TW,"Taiwan, China"
+192,AFRICA,3T,Central Africa
+193,LATIN AMERICA AND CARIBBEAN,DM,Dominica
+194,EUROPE AND CENTRAL ASIA,MK,North Macedonia
+195,MIDDLE EAST AND NORTH AFRICA,SY,Syrian Arab Republic
+196,AFRICA EAST,3E,Eastern Africa
+197,AFRICA EAST,ER,Eritrea
+198,EASTERN AND SOUTHERN AFRICA,KM,Comoros
+199,EAST ASIA AND PACIFIC,MH,Marshall Islands
+200,AFRICA WEST,GM,"Gambia, The"
+201,AFRICA EAST,AO,Angola
+202,Eastern and Southern Africa,KE,Kenya
+203,Western and Central Africa,LR,Liberia
+204,Eastern and Southern Africa,MG,Madagascar
+205,LATIN AMERICA AND CARIBBEAN,DO,Dominican Republic
+206,MIDDLE EAST AND NORTH AFRICA,MA,Morocco
+207,AFRICA EAST,SS,South Sudan
+208,Western and Central Africa,CM,Cameroon
+209,AFRICA,3E,Eastern Africa
+210,EASTERN AND SOUTHERN AFRICA,SS,South Sudan
+211,AFRICA WEST,CF,Central African Republic
+212,EAST ASIA AND PACIFIC,TP,Timor-Leste
+213,EAST ASIA AND PACIFIC,KI,Kiribati
+214,WESTERN AND CENTRAL AFRICA,CV,Cabo Verde
+215,Eastern and Southern Africa,MZ,Mozambique
+216,EAST ASIA AND PACIFIC,FM,"Micronesia, Federated States of"
+217,EUROPE AND CENTRAL ASIA,TR,Turkiye
+218,Western and Central Africa,GN,Guinea
+219,EAST ASIA AND PACIFIC,4M,Mekong
+220,AFRICA,BW,Botswana
+221,Western and Central Africa,ML,Mali
+222,Western and Central Africa,SL,Sierra Leone
+223,AFRICA,SZ,Swaziland
+224,Eastern and Southern Africa,3E,Eastern and Southern Africa
+225,Western and Central Africa,MR,Mauritania
+226,AFRICA,SS,South Sudan
+227,EAST ASIA AND PACIFIC,TH,Thailand
+228,EAST ASIA AND PACIFIC,KR,"Korea, Republic of"
+229,Western and Central Africa,TD,Chad
+230,Western and Central Africa,3W,Western and Central Africa
+231,LATIN AMERICA AND CARIBBEAN,SV,El Salvador
+232,SOUTH ASIA,8S,South Asia
+233,LATIN AMERICA AND CARIBBEAN,CR,Costa Rica
+234,Eastern and Southern Africa,BI,Burundi
+235,EUROPE AND CENTRAL ASIA,MK,"Macedonia, former Yugoslav Republic of"
+236,LATIN AMERICA AND CARIBBEAN,6C,Central America
+237,AFRICA,SZ,Eswatini
+238,Western and Central Africa,GW,Guinea-Bissau
+239,Eastern and Southern Africa,MW,Malawi
+240,LATIN AMERICA AND CARIBBEAN,CL,Chile
+241,Western and Central Africa,CI,Cote d'Ivoire
+242,Eastern and Southern Africa,AO,Angola
+243,Western and Central Africa,TG,Togo
+244,Eastern and Southern Africa,SD,Sudan
+245,Eastern and Southern Africa,ZR,"Congo, Democratic Republic of"
+246,Eastern and Southern Africa,ST,Sao Tome and Principe
+247,AFRICA,CV,Cape Verde
+248,WESTERN AND CENTRAL AFRICA,GQ,Equatorial Guinea
+249,Western and Central Africa,CG,"Congo, Republic of"
+250,Eastern and Southern Africa,LS,Lesotho
+251,Eastern and Southern Africa,ER,Eritrea
+252,Eastern and Southern Africa,UG,Uganda
+253,Eastern and Southern Africa,SO,Somalia
+254,AFRICA EAST,BW,Botswana
+255,EASTERN AND SOUTHERN AFRICA,MU,Mauritius
+256,Western and Central Africa,CF,Central African Republic
+257,AFRICA EAST,SZ,Eswatini
+258,Eastern and Southern Africa,ZW,Zimbabwe
+259,Western and Central Africa,NG,Nigeria
+260,MIDDLE EAST AND NORTH AFRICA,5M,Middle East and North Africa
+261,Eastern and Southern Africa,KM,Comoros
+262,AFRICA WEST,3T,Central Africa
+263,Eastern and Southern Africa,SS,South Sudan
+264,Western and Central Africa,CV,Cabo Verde
+265,WESTERN AND CENTRAL AFRICA,3T,Central Africa
+266,LATIN AMERICA AND CARIBBEAN,6O,OECS Countries
+267,EAST ASIA AND PACIFIC,4S,South East Asia
+268,EASTERN AND SOUTHERN AFRICA,SZ,Eswatini
+269,LATIN AMERICA AND CARIBBEAN,CO,Colombia
+270,EUROPE AND CENTRAL ASIA,UA,Ukraine
+271,Eastern and Southern Africa,MU,Mauritius
+272,Eastern and Southern Africa,BW,Botswana
+273,Western and Central Africa,3T,Central Africa
+274,Western and Central Africa,GQ,Equatorial Guinea
+275,Eastern and Southern Africa,SZ,Eswatini
