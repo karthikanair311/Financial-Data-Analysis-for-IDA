@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project Main Page</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background-color: #0078D7;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: row; /* Align buttons horizontally */
+            justify-content: center; /* Center the buttons horizontally */
+            align-items: center; /* Center the buttons vertically */
+        }
+        .button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 10px; /* Provides spacing between buttons */
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        FINANCIAL DATA ANALYSIS
+    </div>
+    <div class="content">
+        <h1>IDA Statement Of Credits and Grants</h1>
+        <p>This project establishes a database for analyzing
+            IDA credits and grants, targeting financial analysts, project
+            managers, and policymakers in development sectors. Focusing on
+            credit status, financial metrics, and project timelines, it provides
+            insights for optimizing resource allocation and project impact.</p>
+    </div>
+    <div class="button-container">
+        <a href="https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data" class="button" download>Dataset Link</a>
+        <a href="/index" class="button">Query Interface</a>
+    </div>
+    <div class="footer">
+        © 2024 Financial analysis data - All rights reserved
+    </div>
+</body>
+</html>

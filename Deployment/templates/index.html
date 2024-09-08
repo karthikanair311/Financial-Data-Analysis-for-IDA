@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Run Query</title>
+  <style>
+    body, html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+        }
+    .header {
+        background-color: #0078D7;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        font-size: 24px;
+    }
+    .content {
+        padding: 20px;
+        text-align: center;
+    }
+    form {
+      margin-top: 20px; /* Adds space above the form */
+      display: inline-block; /* Aligns the form in the center below the title */
+      background: #ffffff; /* White background for the form area */
+      padding: 20px; /* Padding inside the form */
+      border-radius: 8px; /* Rounded corners for the form */
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow around the form */
+    }
+    textarea {
+      width: 100%; /* Makes the textarea span the full width of the form */
+      height: 150px; /* Increases the height to provide more space for typing */
+      padding: 10px; /* Padding inside the textarea */
+      border: 1px solid #ccc; /* Grey border around the textarea */
+      border-radius: 4px; /* Rounded corners for the textarea */
+      box-sizing: border-box; /* Includes padding and border in the width and height */
+    }
+    input[type="submit"] {
+      background-color: #0056b3; /* Deep blue background for the button */
+      color: white; /* White text color for the button */
+      padding: 10px 20px; /* Padding inside the button */
+      border: none; /* No border for the button */
+      border-radius: 4px; /* Rounded corners for the button */
+      cursor: pointer; /* Pointer cursor on hover */
+      margin-top: 10px; /* Space above the button */
+    }
+    input[type="submit"]:hover {
+      background-color: #004494; /* Slightly darker blue on hover */
+    }
+    .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+  </style>
+  <script>
+    window.onload = function() {
+        // This could be more specific or conditional based on what needs resetting
+        if (window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+            location.reload(true);
+        }
+    };
+</script>
+</head>
+<body>
+  <div class="header">
+    FINANCIAL DATA ANALYSIS
+  </div>
+  <div class="content">
+    <h1>Enter SQL Query</h1>
+    <form method="POST" action="/query">
+      <textarea name="query" rows="10" cols="70"></textarea><br>
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+  <div class="footer">
+    © 2024 Financial analysis data - All rights reserved
+</div>
+</body>
+</html>
